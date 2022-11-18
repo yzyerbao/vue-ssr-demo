@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-service": "^5.0.8",
     "cross-env": "^5.2.0",
     "express": "^4.17.1",
     "lodash.merge": "^4.6.2",
