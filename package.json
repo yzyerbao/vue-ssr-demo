@@ -17,7 +17,7 @@
     "@vue/cli-plugin-babel": "^3.11.0",
     "@vue/cli-service": "^3.11.0",
     "cross-env": "^5.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lodash.merge": "^4.6.2",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.1.0",
